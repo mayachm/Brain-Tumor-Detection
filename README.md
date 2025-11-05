@@ -1,4 +1,4 @@
-                                                        Brain Tumor Detection Using Deep Learning
+                                       Brain Tumor Detection Using Deep Learning
 The model is trained to classify four categories: Glioma, Meningioma, Pituitary tumor, and No Tumor.
 The goal is to support medical research and assist in early tumor identification through automated imaging analysis.
 This system is not a medical diagnostic tool. It is a research and learning project demonstrating the application of CNNs (Convolutional Neural Networks) in medical imaging.
